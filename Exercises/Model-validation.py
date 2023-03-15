@@ -57,7 +57,6 @@ print(val_predictions[:5])
 print(val_y[:5])
 
 from sklearn.metrics import mean_absolute_error
-val_mae = ____
 
 # uncomment following line to see the validation_mae
 val_mae = mean_absolute_error(val_y, val_predictions)
