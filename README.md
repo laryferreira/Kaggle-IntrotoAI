@@ -8,3 +8,4 @@ A three hour course on the fundamentals of machine-learning from @kaggle. Hands-
 - [How to balance Overfitting and Underfitting](https://github.com/laryferreira/MachineLearningIntro/blob/studies/underfitting-and-overfitting.ipynb)
 - [Random Forests](https://github.com/laryferreira/MachineLearningIntro/blob/studies/random-forests.ipynb)
 - [Entering Machine Learning Competitions](https://github.com/laryferreira/MachineLearningIntro/blob/studies/machine-learning-competitions.ipynb)
+
