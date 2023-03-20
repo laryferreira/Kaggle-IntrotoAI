@@ -1,5 +1,11 @@
 # Machine Learning 
 
+Hello and welcome to my GitHub repository on Machine Learning!
+
+In this repository, you will find my work and projects related to machine learning. I have been exploring this field for a while and have created a variety of projects that showcase different concepts and techniques in machine learning.
+
+Some of the topics covered in this repository include:
+
 ## Machine Learning Introduction:
 
 A course on the fundamentals of machine-learning from @kaggle. Hands-on projects where I learned model validation concepts, how to calculate mean absolute error (MAE), how to compare different decision trees sizes and other important skills.
