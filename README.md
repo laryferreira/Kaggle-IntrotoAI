@@ -19,3 +19,4 @@ A course on the fundamentals of machine-learning from @kaggle. Hands-on projects
 
 ## Machine Learning Intermediate:
 
+- [Review on the previous course](https://github.com/laryferreira/MachineLearning-Kaggle/blob/studies/Review.ipynb)
